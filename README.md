@@ -31,10 +31,10 @@ My task is to write JavaScript code that analyzes the records to calculate each 
 
 ### Usage
 
-You can clone this repository using `git clone https://github.com/faladetimilehin/console-finances` or ssh `git clone git@github.com:faladetimilehin/console-finances.git`
+You can clone this repository using `git clone https://github.com/faladetimilehin/Console-Finances` or ssh `git clone git@github.com:faladetimilehin/Console-Finances.git`
 
 ### Deployment
 
-https://faladetimilehin.github.io/console-finances/
+https://faladetimilehin.github.io/Console-Finances/
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
