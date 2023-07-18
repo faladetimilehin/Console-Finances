@@ -36,5 +36,3 @@ You can clone this repository using `git clone https://github.com/faladetimilehi
 ### Deployment
 
 https://faladetimilehin.github.io/Console-Finances/
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
